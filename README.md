@@ -26,16 +26,16 @@ It is useful for creating slugs, URL-friendly strings, readable identifiers, or 
 python3 slugify.py input.txt output.txt
 ```
 
-output.txt
-
-```text
-hello-world
-test-line
-```
-
 input.txt:
 
 ```text
 Hello World
    Test line
+```
+
+output.txt
+
+```text
+hello-world
+test-line
 ```
