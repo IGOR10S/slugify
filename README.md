@@ -22,15 +22,8 @@ It is useful for creating slugs, URL-friendly strings, readable identifiers, or 
 
 ## Example
 
-input.txt:
-
-```text
-Hello World
-   Test line
-```
-
 ```bash
-python slugify_lines.py input.txt output.txt
+python3 slugify.py input.txt output.txt
 ```
 
 output.txt
@@ -38,4 +31,11 @@ output.txt
 ```text
 hello-world
 test-line
+```
+
+input.txt:
+
+```text
+Hello World
+   Test line
 ```
