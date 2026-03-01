@@ -32,7 +32,7 @@ Hello World
 Run the script
 
 ```bash
-python3 slugify.py input.txt output.txt
+python slugify.py input.txt output.txt
 ```
 
 `output.txt` (generated)
