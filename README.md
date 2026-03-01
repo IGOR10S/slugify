@@ -22,18 +22,20 @@ It is useful for creating slugs, URL-friendly strings, readable identifiers, or 
 
 ## Example
 
-```bash
-python3 slugify.py input.txt output.txt
-```
-
-input.txt:
+Create a file (e.g., `input.txt`):
 
 ```text
 Hello World
    Test line
 ```
 
-output.txt
+Run the script
+
+```bash
+python3 slugify.py input.txt output.txt
+```
+
+`output.txt` (generated)
 
 ```text
 hello-world
