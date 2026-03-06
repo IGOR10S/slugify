@@ -22,7 +22,7 @@ It is useful for creating slugs, URL-friendly strings, readable identifiers, or 
 
 ## Example
 
-Create a file (e.g., `input.txt`):
+Create a file (e.g., `input.txt`)
 
 ```text
 Hello World
